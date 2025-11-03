@@ -1,6 +1,6 @@
 Particle[] particles; 
 int numParticles = 500;
-
+ 
 void setup() {
   size(800, 600);
 background(0);
